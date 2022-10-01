@@ -1,0 +1,10 @@
+.join{
+margin: 0 2rem !important;
+}
+.join>h1:hover{
+    color: orange !important;
+}
+
+.achievement-image{
+    width: 20rem !important;
+}

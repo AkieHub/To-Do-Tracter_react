@@ -1,0 +1,13 @@
+.opener{
+    cursor: pointer !important;
+    display: none;
+    margin-right: 2rem !important;
+}
+.closer{
+cursor: pointer !important;
+margin-right: 2rem !important
+}
+
+a{
+    padding: 0 10px;
+}

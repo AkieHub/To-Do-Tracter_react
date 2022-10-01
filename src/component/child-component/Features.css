@@ -1,0 +1,15 @@
+.featurs{
+    margin: 0 1rem !important;
+}
+.featurs>h1{
+    margin: 0 !important;
+}
+.featurs>h1:hover{
+    color: orange !important;
+}
+.f-right{
+    width: 50% !important;
+}
+.img-fluid{
+    text-align: center !important;
+}

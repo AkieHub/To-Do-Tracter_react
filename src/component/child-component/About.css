@@ -1,0 +1,28 @@
+.a-img>div>img{
+width: 13rem !important;
+}
+.a-img>div{
+    border: 1px solid black;
+    width: 16rem !important;
+    text-align: center !important;
+}
+.a-img>div:hover{
+    cursor: pointer !important;
+}
+.a-img>p{
+    margin: 1rem 3rem !important;
+}
+.a-img{
+    display: flex !important;
+    justify-content: center !important;
+    flex-wrap: wrap !important;
+    gap: 3rem !important;
+    
+}
+
+.about>h1{
+    text-align: center !important;
+}
+.about>h1:hover{
+    color: orange !important;
+}

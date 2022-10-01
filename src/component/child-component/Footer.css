@@ -1,0 +1,33 @@
+.footer{
+    padding-top: 2rem !important;
+}
+.f-left>ul{
+    display: flex !important;
+    list-style: none !important;
+    gap: 1rem;
+    flex-direction: column !important;
+    margin-left: 10rem !important;
+    
+}
+.f-left,.f-right{
+    padding: 2rem !important;
+}
+.f-right{
+    gap: 40px !important;
+}
+.f-left>div>ul>*{
+    color: rgb(236, 236, 244) !important;
+    list-style: none !important;
+}
+.f-right>div,p{
+    color: white !important;
+}
+.f-right>p:hover{
+    color: orange !important;
+    cursor: pointer !important;
+}
+
+.f-left>div>ul>*:hover{
+    color: orange !important;
+    cursor: pointer !important;
+}
